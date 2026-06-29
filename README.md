@@ -20,3 +20,10 @@ https://public.tableau.com/views/SOCIAL_MEDIA_DASHBOARD/SOCIALMEDIADASHBOARD?:la
 - Paid - ad campaingns produce the highest revenue.
 - Entertainment content generate the highest revenue.
 - Conversion showed the strongest relationship with revenue.
+
+
+## Business Recommendation
+- Focus on High Performing content Categories.
+- Optimize the Customer Acquisition Funnel.
+- Replicate High performing campaign strategies.
+- increase investment in TikTok Campaing to increase revenue.
